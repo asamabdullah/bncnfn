@@ -1,0 +1,38 @@
+body{
+    background-color: #05c46b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 40px;
+}
+.hd{
+    text-align: center;
+    font-family: Verdana;
+}
+div{
+    height: 1017px;
+    width: 500px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 670px;
+    padding: 20px;
+    font-size: large;
+}
+.op{
+    opacity: 0.9;
+    width: 500px;
+    height: 37px;
+}
+.ji{
+    width: 508px;
+    height: 37px;
+}
+.ui{
+    width: 500px;
+    height: 55px;
+}
+.hu{
+    font-size: larger;
+    background-color: #05c46b;
+    height: 35px;
+    margin-top: 25px;
+    width: 510px;
+}
